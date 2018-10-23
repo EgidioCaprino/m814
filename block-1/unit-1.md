@@ -33,3 +33,9 @@ Customer will point out only performance features, the only spoken ones.
 - You need to understand the requirements in order to build a software. 60% of errors with software originate from ignoring requirements.
 - Software must start with a problem, not with a perceived solution.
 - Requirements should be written only when needed. Write requirements adds an extra cost also for mainteinance. Sometimes it is required to have written requirements.
+- Stakeholder will not always tell the analyst the truth. Consider the problem of _incremental improvements_.
+- Follow an orderly process: order, emphasis and degree of application to the team who decide which ones are more important.
+- The need is indipendent from how you gather the requirements or how you try to solve the problem.
+- Tools are not a substitute of thinking.
+- Function requirements are something that your product needs to meet in order to satisfy the need. Non-functional requirements are something that measure how well it meets the need. Make requirements measurable and if not maybe those are not requirements.
+- The business analyst will help the stakeholder to clearly understand the problem and to foresee further improvements.
