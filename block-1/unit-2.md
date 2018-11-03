@@ -134,3 +134,9 @@ The workflow described above is illustrated [here](https://learn2.open.ac.uk/mod
 
 ### Retaining human processes
 *Situated action*: instaed of pre-planned response, individuals have to react on the basis of the situation drwaing upon their tacit knowledge.
+
+### Handling change
+Difference scenarios, including *null* and *cost-benefit* analysis for 2 or 3 of them.
+*Risk assessment*: places in the scenarios where things can go wrong and how to mitigate the risk.
+Decision is taken at a level commensurate with the projected scope and impact of the ange following a *change management strategy* and operating a system of *change control boards*.
+Changes are applied to different parts in different stage and so are coordinated through a *version management strategy*.
