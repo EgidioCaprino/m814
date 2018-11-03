@@ -46,3 +46,18 @@ Hierarchy of needs that underpins human motivation:
 *Belonging*: good communication.
 *Self-respect and respect of others*: everyone should feel competent and competence should be recognized by collegues.
 *Self-actualization*: extend their knowledge and learn new things.
+
+## Global views of motivation
+Different people from different countries have different attitues and behave differently.
+
+### Dimensions of variability across countries
+*Power distance*: high power distance leads people to accept that power and responsability is invested in few individuals while low power distance implies that people are keen on flat hierarchy and shared responsability.
+*Individualism-collectivism*: in individualistic society self-interest should be organized to coincide with the organization one. In collectivist society members are loyal and protect each others.
+*Masculinity-femininity*: high masculinity score implies relationships to be confrontational while femininity implies them to be cooperative.
+*Uncertainty avoidance*: where there are more frameworks people are better in operational rather than innovation.
+
+*Appraisals* works better in:
+- low distance
+- high individualism,
+- low masculinity,
+- low uncertainty avoidance.
