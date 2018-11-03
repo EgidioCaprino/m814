@@ -131,3 +131,6 @@ The company may decide to integrate the changes in the workflow directly into th
 
 ### Changing part of the system 2
 The workflow described above is illustrated [here](https://learn2.open.ac.uk/mod/oucontent/view.php?id=1363986&section=1.8.2).
+
+### Retaining human processes
+*Situated action*: instaed of pre-planned response, individuals have to react on the basis of the situation drwaing upon their tacit knowledge.
