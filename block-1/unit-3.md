@@ -72,3 +72,8 @@ Different people from different countries have different attitues and behave dif
 - *attitudes to environment*
 
 Relationship with Hofstede's dimensions [here](https://learn2.open.ac.uk/mod/oucontent/view.php?id=1363987&section=1.2.2).
+
+### Further approaches to motivation
+- *Autonomy*
+- *Mastery*
+- *Purpose*
