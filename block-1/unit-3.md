@@ -61,3 +61,14 @@ Different people from different countries have different attitues and behave dif
 - high individualism,
 - low masculinity,
 - low uncertainty avoidance.
+
+### Intercultural cooperation
+- *universalism* vs *particularism*
+- *individualism* vs *communitarianism*
+- *neutral* vs *emotional*
+- *specific* vs *diffuse*
+- *achievement* vs *ascription*
+- *attitudes to time*
+- *attitudes to environment*
+
+Relationship with Hofstede's dimensions [here](https://learn2.open.ac.uk/mod/oucontent/view.php?id=1363987&section=1.2.2).
