@@ -77,3 +77,8 @@ Relationship with Hofstede's dimensions [here](https://learn2.open.ac.uk/mod/ouc
 - *Autonomy*
 - *Mastery*
 - *Purpose*
+
+## Human resource development
+- *Discipline of innovative experts*
+- *Reflective practitioner*
+- *Community practice*
