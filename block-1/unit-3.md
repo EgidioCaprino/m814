@@ -82,3 +82,8 @@ Relationship with Hofstede's dimensions [here](https://learn2.open.ac.uk/mod/ouc
 - *Discipline of innovative experts*
 - *Reflective practitioner*
 - *Community practice*
+
+## Organisational motivation and market forces
+- One owner at a time
+- Benefits reduces if accessed by other users
+- Ownership recognized by the law
