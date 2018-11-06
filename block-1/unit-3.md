@@ -91,3 +91,12 @@ Relationship with Hofstede's dimensions [here](https://learn2.open.ac.uk/mod/ouc
 ### Goods, commodities and bestspoke products
 - command economy vs market economy
 - commodities
+
+### The perfect market
+- perfect market
+- low of scarcity
+- capital goods
+- direct production vs indirect production
+- property rights
+- excludability
+- private goods
