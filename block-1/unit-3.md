@@ -87,3 +87,7 @@ Relationship with Hofstede's dimensions [here](https://learn2.open.ac.uk/mod/ouc
 - One owner at a time
 - Benefits reduces if accessed by other users
 - Ownership recognized by the law
+
+### Goods, commodities and bestspoke products
+- command economy vs market economy
+- commodities
