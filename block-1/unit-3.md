@@ -100,3 +100,8 @@ Relationship with Hofstede's dimensions [here](https://learn2.open.ac.uk/mod/ouc
 - property rights
 - excludability
 - private goods
+
+### Private and public goods
+- public goods
+- freedom of the commons
+
