@@ -105,3 +105,6 @@ Relationship with Hofstede's dimensions [here](https://learn2.open.ac.uk/mod/ouc
 - public goods
 - freedom of the commons
 
+## From market failure to the gratis economy
+- externalities
+- free rider
