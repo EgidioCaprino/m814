@@ -108,3 +108,38 @@ Relationship with Hofstede's dimensions [here](https://learn2.open.ac.uk/mod/ouc
 ## From market failure to the gratis economy
 - externalities
 - free rider
+
+### Market failure in software reuse
+- Software reuse
+- Software product lines
+
+### Understanding the market
+- Imperfect competition
+- Cartel
+- Economy of scale
+- Patents
+- Product differentiation
+- Captive market
+- Customer lock-in
+
+### Planned obsolescence
+- Planned obsolescence
+
+### Software marketing
+- Conformance to standards
+- API
+- Reverse engineering
+
+### Free software
+- [The Free Software Foundation](https://learn2.open.ac.uk/mod/oucontent/view.php?id=1363987&section=1.5.5)
+- FOSS
+- Linux fragmentation issue
+
+### Motivation for "free" software
+- Gratis economy
+- Self actualization needs
+- Social obligations
+- Social contracts
+- Positive image
+- Learning
+- Advertisements
