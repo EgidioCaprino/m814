@@ -15,3 +15,6 @@
 ### Ethics and the Therac case
 Was not possible to withdraw the Therac machine before asserting the malfunction.
 
+### Ethics and norms
+- Analize situations ethically
+- Normative requires human interpretation
