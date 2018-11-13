@@ -18,3 +18,17 @@ Was not possible to withdraw the Therac machine before asserting the malfunction
 ### Ethics and norms
 - Analize situations ethically
 - Normative requires human interpretation
+
+# Self-regulation and voluntary codes
+- Professional society
+
+## An IT specialists' guild
+- Worshipful Company of Information Technologists
+
+## Software professional organisations: CEPIS
+- Non-profit
+- Promote high standards among informatics professionals
+
+## Software engineering professional organisations
+- Electronic engineering
+- IEEE code of ethics
