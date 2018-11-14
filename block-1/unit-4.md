@@ -32,3 +32,32 @@ Was not possible to withdraw the Therac machine before asserting the malfunction
 ## Software engineering professional organisations
 - Electronic engineering
 - IEEE code of ethics
+
+# Standards
+- De facto standards
+- Reference models
+- Product standards
+- Process standards
+- Code of practice
+- Guidelines
+- Specifications
+- Prospective standards
+- Retrospective standards
+- Functional standards
+
+## International standards-making bodies
+- ISO
+- IEC
+
+## Other standards-making bodies
+- BSI in United Kingdom
+- ANSI and ISSB
+- NATO for military standards
+- Difficult in IT because of commercial interests, tech pace, it relies on voluntaries
+
+## Software technical standards
+- Formal definition of programming languages
+- Special standards for safety-critical systems.
+
+## Process certification
+- Emphasis on time and costs
